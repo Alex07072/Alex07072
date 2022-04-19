@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex07072
+- 👋 Hi, I’m @Alex
 - 👀 I’m interested in ... software developer
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
